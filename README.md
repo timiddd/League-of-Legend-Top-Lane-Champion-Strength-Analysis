@@ -1,5 +1,3 @@
-# League-of-Legend-Top-Lane-Champion-Strength-Analysis
-
 # League of Legends Top-Lane Matchup Analysis
 
 ## Overview
