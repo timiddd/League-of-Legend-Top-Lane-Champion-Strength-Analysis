@@ -117,8 +117,7 @@ A typical project structure is:
 .
 ├── README.md
 ├── SMGT530_Project.R
-└── report/
-    └── SMGT530_Final.pdf
+└── SMGT530_Final.pdf
 ```
 
 The exact filenames may differ depending on the local version of the project.
